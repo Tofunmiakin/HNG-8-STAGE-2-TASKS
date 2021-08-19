@@ -1,0 +1,19 @@
+{
+  "name": "hng-8-stage-2-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tofunmiakin/HNG-8-STAGE-2-TASKS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tofunmiakin/HNG-8-STAGE-2-TASKS/issues"
+  },
+  "homepage": "https://github.com/Tofunmiakin/HNG-8-STAGE-2-TASKS#readme"
+}
